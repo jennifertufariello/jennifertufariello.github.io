@@ -1,8 +1,8 @@
 ---
 title: CSS
-description:Global CSS settings, fundamental HTML elements styled and enhanced with extensible classes, and an advanced grid system.
+description: Global CSS settings, fundamental HTML elements styled and enhanced with extensible classes, and an advanced grid system.
 category: CSS
-layout:fake_bootstrap
+layout: fake_bootstrap
 ---
 ##Overview
 Get the lowdown on the key pieces of Bootstrap's infrastructure, including our approach to better, faster, stronger web development.
