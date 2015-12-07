@@ -3,6 +3,11 @@ body {
   font-family: 'Alegreya', serif;
 }
 
+#header {
+  text-align: center;
+  text-weight: 2px;
+}
+
 .h1 {
   font-weight: bold;
 }
