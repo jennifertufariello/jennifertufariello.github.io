@@ -2,3 +2,10 @@
 body {
   font-family: 'Alegreya', serif;
 }
+
+.h1 {
+  font-weight: bold;
+}
+
+.title {text-align: center; 
+}
