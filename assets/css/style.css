@@ -16,3 +16,7 @@ ul {
 img {
   display: inline-block;
 }
+
+p {
+  margin-top: 4px;
+}
