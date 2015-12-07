@@ -7,6 +7,10 @@ body {
   font-weight: bold;
 }
 
+.h2 {
+  text-align: center;
+}
+
 .title {
-  text-align: center; 
+  text-align: center;
 }
