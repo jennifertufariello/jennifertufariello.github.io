@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Radley);
+
+
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
@@ -22,4 +25,5 @@ p {
   border-style: solid;
   border-color: teal;
   border-width: thick;
+  font-family: 'Radley', serif;
 }
