@@ -42,9 +42,9 @@ p {
 body {
   background-color: #F2D6D6;
   margin-right: 0px;
-  padding-right: 0px;
-  margin-left: 210px;
-  padding-left: 210px;
+  padding-right: 100px;
+  margin-left: 0px;
+  padding-left: 200px;
 }
 
 div.col-md-3 {
