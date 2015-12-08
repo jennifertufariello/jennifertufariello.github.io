@@ -36,10 +36,12 @@ p {
   font-family: 'Radley', serif;
   font-size: 18px;
   font-weight: bold;
+  text-decoration: none;
 }
 
 body {
   background-color: #F2D6D6;
+  margin-right: 5px;
 }
 
 div.col-md-3 {
