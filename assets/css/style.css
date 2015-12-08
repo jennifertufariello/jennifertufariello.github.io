@@ -43,6 +43,8 @@ body {
   background-color: #F2D6D6;
   margin-right: 0px;
   padding-right: 0px;
+  margin-left: 10px;
+  padding-left: 10px;
 }
 
 div.col-md-3 {
