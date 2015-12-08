@@ -25,6 +25,7 @@ ul {
   margin-right: 250px;
   border-style: solid;
   border-color: green;
+  border-width: thick;
 }
 
 p {
