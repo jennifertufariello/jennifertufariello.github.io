@@ -37,7 +37,7 @@ body {
   background-color: #F2D6D6;
 }
 
-col-md-3 {
+div.col-md-3 {
   margin-top: 35px;
   padding-top: 10px;
   padding-bottom: 15px;
