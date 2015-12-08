@@ -20,7 +20,8 @@ ul {
 
 #volunteering {
   align: center;
-  padding-top: 2px;
+  padding-top: .5px;
+  margin-left: 15px;
 }
 
 p {
