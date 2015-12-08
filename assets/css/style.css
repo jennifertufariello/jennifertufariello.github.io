@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Radley);
-
+@import url(https://fonts.googleapis.com/css?family=Bitter);
 
 .col-md-1 {
   border-left: 1px solid black;
@@ -10,6 +10,7 @@
 h1 {
   text-align: center;
   color: purple;
+  font-family: 'Bitter', serif;
 }
 
 ul {
