@@ -46,6 +46,6 @@ a {
 }
 
 div.container {
-  border-width: thick;
+  border-width: thin;
   border-style: solid;
 }
