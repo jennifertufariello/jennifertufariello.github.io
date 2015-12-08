@@ -34,12 +34,12 @@ p {
 
 body {
   background-color: #F2D6D6;
-  border-style: double; 
+  border-style: double;
 }
 
 .col-md-3 {
-  margin-top: 45px;
-  padding-top: 15px;
+  margin-top: 35px;
+  padding-top: 10px;
 }
 
 a {
