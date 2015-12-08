@@ -35,6 +35,7 @@ p {
 body {
   background-color: #F2D6D6;
   border-style: solid;
+  border-right: 20px;
 }
 
 .col-md-3 {
