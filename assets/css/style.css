@@ -21,8 +21,10 @@ ul {
 #volunteering {
   align: center;
   padding-top: .5px;
+  padding-left: 50px;
   margin-left: 225px;
   margin-right: 250px;
+  margin-bottom: 10px;
   border-style: solid;
   border-color: green;
   border-width: thick;
