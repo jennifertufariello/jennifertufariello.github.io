@@ -23,6 +23,8 @@ ul {
   padding-top: .5px;
   margin-left: 225px;
   margin-right: 250px;
+  border-style: solid;
+  border-color: green;
 }
 
 p {
