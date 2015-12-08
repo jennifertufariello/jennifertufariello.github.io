@@ -20,4 +20,6 @@ img {
 p {
   margin-top: 25px;
   border-style: solid;
+  border-color: teal;
+  border-width: thick;
 }
